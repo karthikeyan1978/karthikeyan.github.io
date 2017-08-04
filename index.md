@@ -1,3 +1,7 @@
+
+## welcome to STUDENT MARK LIST GRADE SYSTEM MANAGEMENT
+This is will take you to register student name with their corresponding marks respectively and storing into the database. Any time we can see the data with respect to name or grade. Mainly this will fetch the data from the user and validate for average and publish the Grade according to their average ratio.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/karthikeyan1978/karthikeyan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
